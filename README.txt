@@ -1,0 +1,4 @@
+- Which sub-template should be expanded? · Workspace
+- Do you want to use Dioxus Fullstack? · true
+- Do you want to use Dioxus Router? · true
+- Do you want to include prompts for LLMs? · true
