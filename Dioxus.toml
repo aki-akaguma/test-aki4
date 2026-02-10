@@ -1,0 +1,38 @@
+[application]
+
+name = "test-aki4"
+#out_dir = "target/dist"
+asset_dir = "public"
+
+[web.app]
+
+# HTML title tag content
+title = "test-aki4"
+
+# include `assets` in web platform
+[web.resource]
+
+# Additional CSS style files
+style = []
+
+# Additional JavaScript files
+script = []
+
+[web.resource.dev]
+
+# Javascript code file
+# serve: [dev-server] only
+script = []
+
+[bundle]
+identifier = "org.omusubi.aki.test.test_aki4"
+publisher = "aki.akaguma"
+
+icon = [
+  "assets/app.png",
+]
+
+copyright = "Copyright 2026 aki.akaguma"
+category = "Utility"
+short_description = "Test Aki 4"
+long_description = "Test Aki 4"
